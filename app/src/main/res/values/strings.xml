@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test Technique MobiApps</string>
+
+    <string name="error_occurred">Un problème est survenu lors de la récupération de la liste des articles
+    </string>
+    <string name="error_no_internet_connexion">Erreur réseau. Peux-tu vérifier que tu es bien connecté à internet
+    </string>
+
+
+    <!-- -->
+
+    <string name="icon_content_description">Icon menu</string>
+
+</resources>
